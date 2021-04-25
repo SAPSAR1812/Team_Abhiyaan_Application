@@ -1,17 +1,13 @@
-Weather and surrounding conditions can affect the performance of a robot. Currently, the autonomous cars cannot ply in heavy fogs or rain. Therefore, we must find a way to get around 
-these difficulties. I tried looking into these issues and tried to compartmentalize them into the four parts of navigation system:
+Weather and surrounding conditions can affect the performance of a robot. Currently, the autonomous cars cannot ply in heavy fogs or rain. Therefore, we must find a way to get around these difficulties. I tried looking into these issues and tried to compartmentalize them into the four parts of navigation system:
 
-1) Perception: Cameras and sensors. Bad weather conditions affect the visibilities of cameras. Based on the overall tone of the image, we can try uplifting/brightening the image and 
-reducing background noise. Variable image-preprocessing coupled with extensive training of machine learning algorithms might help.
+1) Perception: Adding powerful cameras and sensors. Bad weather conditions affect the visibilities of cameras. Based on the overall tone of the image, we can try uplifting/brightening the image and reducing background noise. Variable image-preprocessing coupled with extensive training of machine learning algorithms might help.
 
 2) Localisation: Ground Penetrating Radar has been used by MIT to obtain precise vehicle localization; although that means that we would have to preprocess every track and feed it 
-into the system. Sensors are more practical because they can be used 'in the moment' but it would mean travelling at slower speeds. 
+into the system. Sensors are more practical because they can be used 'in the moment' but it would mean travelling at slower speeds. Road markings should be given special emphasis to maintain lane discipline.
 
-3) Planning: Construct a graph based on the data input from localisation and choose the shortest path (Djikstra's or an optimised version of it). Obstacles and potholes in road can 
-be assigned heavy edge weights to discourage taking that path or lane. 
+3) Planning: Construct a graph based on the data input from localisation and choose the shortest path (Djikstra's or an optimised version of it). Obstacles and potholes in road can be assigned heavy edge weights to discourage taking that path or lane. 
 
-4) Motion Control: Know the braking limits of the vehicle, sensor distance accuracies and set mean velocity accordingly. While driving in fog or heavy rain, one relies on instincts
-rather than conscious perception when braking or turning to avoid an accident. Similarly, perception and localisation can only get you so far. Backup measures could be hard-coded
-into motion control to prevent accidents.
+4) Motion Control: Know the braking limits of the vehicle, sensor distance accuracies and set mean velocity accordingly. While driving in unfavourable weather, one relies on instincts rather than conscious perception when braking or turning to avoid an accident. Similarly, perception and localisation can only get you so far. Backup measures could be hard-coded into motion control to minimise accidents. 
 
-Reference: https://ieeexplore.ieee.org/document/9013076
+Reference: 1) https://ieeexplore.ieee.org/document/9013076
+           2) https://www.youtube.com/watch?v=rZq5FMwl8D4
