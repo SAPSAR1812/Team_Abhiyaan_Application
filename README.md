@@ -21,7 +21,7 @@ I haven't applied for any PORs yet.
 
 Why I want to join the team:
 ----------------------------
-The thrill of building and designing something that yield tangible results and practical applications in the near future. It would be sad if I completed four years of engineering without ever building a robot or drone. Also, I would get to interact and learn from peeps who love to innovate and design the future. Specifically, Abhiyaan delves into the world of autonomous systems and that is a field I am greatly interested in. Competitions would be the cherry on the top.
+To experience the thrill of building and designing something that yields tangible results and practical applications in the near future. It would be sad if I completed four years of engineering without ever building a robot or drone. Also, I would get to interact and learn from peeps who love to innovate and design the future. Abhiyaan, specifically, delves into the world of autonomous systems and that is a field I am greatly interested in. Competitions would be the cherry on the top.
 
 
 Relevant Courses:
