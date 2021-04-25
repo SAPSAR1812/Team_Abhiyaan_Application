@@ -32,10 +32,10 @@ MA2040 - Passed
 
 Online
 -------
-Andrew Ng's Machine Learning, Coursera
-NPTEL's Python for Data Science
-NPTEL's Computer Vision and Image Processing - Fundamentals and Applications
-MITOCW, Introduction to Algorithms
+Andrew Ng's Machine Learning, Coursera, 
+NPTEL's Python for Data Science, 
+NPTEL's Computer Vision and Image Processing - Fundamentals and Applications (Currently Doing), 
+MITOCW, Introduction to Algorithms.
 
 
 
