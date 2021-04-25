@@ -35,7 +35,7 @@ Online
 Andrew Ng's Machine Learning, Coursera, 
 NPTEL's Python for Data Science, 
 NPTEL's Computer Vision and Image Processing - Fundamentals and Applications (Currently Doing), 
-MITOCW, Introduction to Algorithms.
+MITOCW: Introduction to Algorithms.
 
 
 
