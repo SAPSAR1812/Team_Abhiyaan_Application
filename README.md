@@ -9,6 +9,9 @@ Sahil Halarnkar
 Roll Number:
 CH19B086
 
+Contact:
+7738293022
+
 Credentials:
 ------------
 Events Coordinator at Shaastra 2021 in Coding and Logic Vertical. Conducted Reverse Coding and MTX Hackolympics events successfully.
