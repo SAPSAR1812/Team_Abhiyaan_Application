@@ -42,8 +42,8 @@ MITOCW: Introduction to Algorithms.
 
 
 
-PS: beginner_tutorials contains the solutions for Section A
-
+PS: 1) beginner_tutorials contains the solutions for Section A
+    2) Turtle.png has the screenshot for the ROS question
 
 
 
